@@ -1,0 +1,8 @@
+car1 = input("your fav car: ")
+car2 = input("your second fav car: ")
+car3 = input("your third fav car: ")
+car4 = input("your fourth fav car: ")
+print(car1)
+print(car2)
+print(car3)
+print(car4)
